@@ -1,2 +1,2 @@
-# cs236
+# CS236
 Stanford CS236 Deep generative models
